@@ -19,6 +19,7 @@
         "decorations": false,
         "alwaysOnTop": true,
         "resizable": false,
+        "fullscreen": false,
         "shadow": false, 
         "width": 240,
         "height": 80
